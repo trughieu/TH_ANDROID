@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "911056387742",
+    "firebase_url": "https://ndq-thltddnc-default-rtdb.firebaseio.com",
+    "project_id": "ndq-thltddnc",
+    "storage_bucket": "ndq-thltddnc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911056387742:android:6d9e6da8f27c248f76058f",
+        "android_client_info": {
+          "package_name": "com.example.nguyendangquang_19dh110604"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911056387742-1gr56nd9elng59f2sf5son98o7epjj9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhB7DdX83cQ1i5aqU7G4K-cR952oTI76o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911056387742-1gr56nd9elng59f2sf5son98o7epjj9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
